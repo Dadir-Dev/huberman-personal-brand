@@ -8,7 +8,7 @@ This project recreates the look and feel of Andrew Huberman’s platform with sm
 ## 🌐 Live Demo
 
 Check out the live demo of the project here:  
-[Huberman Lab Podcast Clone - Live Demo](https://dadir-dev.github.io/tailwind-project-1/)
+[Huberman Lab Podcast Clone - Live Demo](https://dadir-dev.github.io/huberman-personal-brand/)
 
 ## 📝 Screenshots
 
